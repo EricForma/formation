@@ -64,6 +64,7 @@ class TableDeMultiplication:
 if __name__ == "__main__":
     table = TableDeMultiplication(2)
     print(len(table))
+    print("truc")
     print(table.longueur)
     print(table)
     print(table[3])
